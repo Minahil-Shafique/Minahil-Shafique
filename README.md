@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏻, I'm Minahil</h1>
-<h3 align="center">A Passionate MERN stack developer</h3>
+<h3 align="center">Aspiring Full Stack Developer with a Strong Foundation in MERN Stack and a Passion for Learning</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/minahil-shafique" target="_blank" rel="noreferrer">
