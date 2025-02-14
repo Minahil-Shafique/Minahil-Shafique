@@ -6,8 +6,7 @@ Passionate about building scalable web applications and continuously learning em
 ---  
 
 ### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minahil-shafique)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Minahil-Shafique)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minahil-shafique) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Minahil-Shafique) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/_Minahil/)
 ---  
 
 ### 🛠 Tech Stack  
