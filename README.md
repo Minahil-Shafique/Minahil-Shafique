@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Minahil Shafique  
+## 👋 Hi there, I'm Minahil 
 ### 🚀 Full Stack Developer | AI Enthusiast | Lifelong Learner  
 
 Passionate about building scalable web applications and continuously learning emerging technologies. I specialize in the **MERN stack** and have experience working with **AI-powered applications**. Always excited to collaborate on innovative projects!  
